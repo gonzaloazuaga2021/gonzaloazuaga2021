@@ -1,5 +1,4 @@
-### Hola, comparto mi Trabajo final de la Diplomatura en Ciencias Sociales Computacionales y Humanidades Digitales (UNSAM)
-
+### Hola, c
 <!--
 **gonzaloazuaga2021/gonzaloazuaga2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
