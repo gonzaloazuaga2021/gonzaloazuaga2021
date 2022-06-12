@@ -1,6 +1,11 @@
 ### Hola!
 
-
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://camo.githubusercontent.com/6e6307d8b5e39295e37b4b68392a67b4e781593a3279ebfc917587be157681c3/68747470733a2f2f7777772e722d70726f6a6563742e6f72672f526c6f676f2e706e67" title="Java" alt="Java" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/tidyverse/tidyverse/main/man/figures/logo.png" title="AWS" alt="AWS" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/tidymodels/tidymodels/main/man/figures/logo.png" title="Git" **alt="Git" width="45" height="45"/>
+</div>
 <!--
 **gonzaloazuaga2021/gonzaloazuaga2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
