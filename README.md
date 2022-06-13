@@ -1,5 +1,10 @@
 ### Hola!
 
+Economista, docente de Estadística con gran interés en el mundo de la Ciencia de Datos, con muchas ganas de aprender y seguir capacitándome.
+ 
+🌱 Cursando mi segunda Diplomatura en Data Science con ganas de profundizar más en Machine Learning.
+👯 Con ganas de participar en proyectos de ciencia de datos.
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://camo.githubusercontent.com/6e6307d8b5e39295e37b4b68392a67b4e781593a3279ebfc917587be157681c3/68747470733a2f2f7777772e722d70726f6a6563742e6f72672f526c6f676f2e706e67" title="Java" alt="Java" width="45" height="45"/>&nbsp;
