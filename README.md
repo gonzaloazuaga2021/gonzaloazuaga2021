@@ -1,9 +1,13 @@
 ### Hola!
 
-Economista, docente de Estadística con gran interés en el mundo de la Ciencia de Datos, con muchas ganas de aprender y seguir capacitándome.
+Economista, docente de Estadística con gran interés en el mundo de la Ciencia de Datos y su aplicabilidad al ámbito público y privado.
  
-🌱 Cursando mi segunda Diplomatura en Data Science con ganas de profundizar más en Machine Learning.
-👯 Con ganas de participar en proyectos de ciencia de datos.
+🌱 Cursando mi segunda Diplomatura en Data Science con ganas de profundizar más en la construcción de modelos predictivos.
+
+👯 Interesado en participar en proyectos de ciencia de datos.
+
+📫 How to reach me:
+gonzalodazuaga@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
