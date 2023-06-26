@@ -1,8 +1,6 @@
 ### Hola!
 
 Economista, docente de Estadística con gran interés en el mundo de la Ciencia de Datos y su aplicabilidad al ámbito público y privado.
- 
-🌱 Cursando mi segunda Diplomatura en Data Science con ganas de profundizar más en la construcción de modelos predictivos.
 
 👯 Interesado en participar en proyectos de ciencia de datos.
 
